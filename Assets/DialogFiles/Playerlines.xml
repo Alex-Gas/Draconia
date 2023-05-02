@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<playerdialoglines>
+
+	<character name="blacksmith">
+		<line>
+			<id>1</id>
+			<text>"Perform a check"</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>I want to do a check</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>Good talking with you. Bye</text>
+		</line>
+		<line>
+			<id>4</id>
+			<text>Bye.</text>
+		</line>
+		<line>
+			<id>5</id>
+			<text>Screw You.</text>
+		</line>
+		
+	</character>
+
+
+</playerdialoglines>

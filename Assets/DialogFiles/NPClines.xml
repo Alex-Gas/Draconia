@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<npcdialoglines>
+	
+	<character name="blacksmith">
+		<line>
+			<id>1</id>
+			<text>Hello there!</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>Okay, lets see what you got</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>Alright see ya</text>
+		</line>
+		<line>
+			<id>4</id>
+			<text>You passed the check. Good job!</text>
+		</line>
+		<line>
+			<id>5</id>
+			<text>Sadly, you failed the check</text>
+		</line>
+		<line>
+			<id>6</id>
+			<text>You've already passed this check!</text>
+		</line>
+		<line>
+			<id>7</id>
+			<text>I'm not interested in talking with you anymore</text>
+		</line>
+		<line>
+			<id>8</id>
+			<text>How rude!</text>
+		</line>
+	</character>
+	
+
+	
+</npcdialoglines>
