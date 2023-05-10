@@ -1,4 +1,5 @@
 using Packages.Rider.Editor.UnitTesting;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using TreeEditor;
@@ -7,8 +8,7 @@ using static UnityEditor.Progress;
 
 public static class ItemManager
 {
-    public static List<ItemData> itemsInPosession = new List<ItemData>() { };
-    public static int goldTotalAmount = 0;
+    public static List<ItemData> itemsInPosession = new List<ItemData>() {};
     public static bool redrawFlag = false;
 
     private static bool testFlag = false;
@@ -26,36 +26,53 @@ public static class ItemManager
     {
         foreach (int id in list)
         {
-            Item item = ItemLibrary.GetItemDataByID(id).GetItemObject().GetComponent<Item>();
-            AddItemToPosession(item);
+            ItemData itemData = ItemLibrary.GetItemDataByID(id);
+            AddItemToPosession(null, itemData);
         }
     }
     
 
-    public static void AddItemToPosession(Item item)
+    public static void AddItemToPosession(Item item = null, ItemData incomingItemData = null)
     {
-        int itemID = item.GetItemID();
-        int itemValue = item.GetGoldValue();
-
-        
         // Creating a copy of an item template from library
         ItemData itemData = new ItemData();
 
-        // Copying data over from the library
-        itemData = ItemLibrary.CopyItemData(itemData, itemID);
-
-        // Applying item stats based on data of received item.
-        // Applying new gold value of the item copy
-        itemData.SetGoldValue(itemValue);
-        //itemData.SetPowerValue();
+        if (item != null)
+        {
+            // Copying data over from the library
+            itemData = ItemLibrary.CopyItemData(itemData, item.GetItemID());
+            itemData = ItemLibrary.SetItemStatistics(itemData, item.GetGoldValue(), item.GetRawPower(), item.GetDracPower());
+        }
+        else if (incomingItemData != null)
+        {
+            itemData = incomingItemData;
+        }
+        else { throw new Exception("Item was not added, no incoming data"); }
 
         // Setting instance number variable to distinguish items of the same id.
         itemData.SetItemInstance(HandleDuplicates(itemData));
         // Adding the item copy to list of posessions
         itemsInPosession.Add(itemData);
-        
     }
 
+    public static ItemData ProcureItemData(int itemID, int itemValue, int itemRawPower, int itemDracPower)
+    {
+        ItemData itemData = new ItemData();
+
+        itemData = ItemLibrary.CopyItemData(itemData, itemID);
+        itemData = ItemLibrary.SetItemStatistics(itemData, itemValue, itemRawPower, itemDracPower);
+
+        return itemData;
+    }
+
+    public static GameObject ProcureItem(GameObject obj, int itemValue, int itemRawPower, int itemDracPower)
+    {
+        Item item = obj.GetComponent<Item>();
+        item.SetGoldValue(itemValue);
+        item.SetRawPower(itemRawPower);
+        item.SetDracPower(itemDracPower);
+        return obj;
+    }
 
     private static int HandleDuplicates(ItemData itemData)
     {
@@ -104,19 +121,7 @@ public static class ItemManager
 
     public static void RemoveItemFromPosession(int itemID)
     {
-        foreach (ItemData item in itemsInPosession)
-        {
-            if (item.GetItemID() == itemID)
-            {
-                itemsInPosession.Remove(item);
-            }
-        }
-    }
-
-    public static void AddGold(int goldAmount)
-    {
-        goldTotalAmount += goldAmount;
-        Debug.Log("total gold: " + goldTotalAmount);
+        itemsInPosession.RemoveAll(itemData => itemData.GetItemID() == itemID);
     }
 
     public static void DestroyInventoryItem(ItemData itemData)
@@ -130,6 +135,4 @@ public static class ItemManager
             }
         }
     }
-
-
 }

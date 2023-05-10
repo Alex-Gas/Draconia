@@ -8,6 +8,7 @@ public class PlayerInput : MonoBehaviour
     private float verticalInput;
     private bool interactInput;
     private bool inventoryInput;
+    private bool menuInput;
 
     private void Update()
     {
@@ -20,6 +21,7 @@ public class PlayerInput : MonoBehaviour
         verticalInput = Input.GetAxis("Vertical");
         interactInput = Input.GetButtonDown("Interact");
         inventoryInput = Input.GetButtonDown("Inventory");
+        menuInput = Input.GetButtonDown("Menu");
     }
 
     public float GetHorizontalVal() 
@@ -40,6 +42,11 @@ public class PlayerInput : MonoBehaviour
     public bool GetInventoryInput()
     {
         return inventoryInput;
+    }
+
+    public bool GetMenuInput()
+    {
+        return menuInput;
     }
 
 }

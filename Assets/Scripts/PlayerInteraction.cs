@@ -24,9 +24,14 @@ public class PlayerInteraction : MonoBehaviour
     {
         bool isInteract = playerInput.GetInteractInput();
 
+        foreach (KeyValuePair<GameObject, float> entry in interactableObjects)
+        {
+            entry.Key.GetComponent<EntityBehaviour>().SetNamePlateFlag();
+        }
+
         GetClosestObj()?.GetComponent<EntityBehaviour>().SetHighlightFlag();
 
-        if (isInteract)
+        if (!GameState.isPaused && isInteract)
         {
             GetClosestObj()?.GetComponent<EntityBehaviour>().SetInteractFlag();
         }
