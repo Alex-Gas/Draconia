@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<npcdialoglines>
+	
+	<character name="npc_test">
+		<line>
+			<id>1</id>
+			<text>Hello there!</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>Okay, lets see what you got</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>Alright see ya</text>
+		</line>
+		<line>
+			<id>4</id>
+			<text>You passed the check. Good job!</text>
+		</line>
+		<line>
+			<id>5</id>
+			<text>Sadly, you failed the check</text>
+		</line>
+		<line>
+			<id>6</id>
+			<text>You've already passed this check!</text>
+		</line>
+		<line>
+			<id>7</id>
+			<text>I'm not interested in talking with you anymore</text>
+		</line>
+		<line>
+			<id>8</id>
+			<text>How rude!</text>
+		</line>
+		<line>
+			<id>9</id>
+			<text>Thank you for returning my item! Here is an item in return</text>
+		</line>
+	</character>
+
+	
+	
+	<character name="shaman">
+		<line>
+			<id>1</id>
+			<text>Oh, another one of your kind...</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>It means you humans  are not welcome around these parts anymore. If you want supplies, Astero, our blacksmith will accomodate you with whatever is left so you can move on and leave us in peace.</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>Not exactly, but I'm sure that won't concern you. Look, if you want supples our blacksmith Astero can sell you some of our leftower stock. In any case the gate is over there whenever you want to leave.</text>
+		</line>
+		<line>
+			<id>4</id>
+			<text>Oh, I do apologise for my rude behaviour. Our little town is on edge ever since the incident. Where are my manners? My name isKharim, I am the smanan and a head of this humble town. </text>
+		</line>
+		<line>
+			<id>5</id>
+			<text>Go on, what do you need?</text>
+		</line>
+		<line>
+			<id>6</id>
+			<text>Me? I'm a shaman and a head of the town. I don't actually have any official authority over the townsfolk but they usually come to me at the first sign of trouble to seek advice.</text>
+		</line>
+		<line>
+			<id>7</id>
+			<text>Alright well, if you need help I'll be in my hut. Oh also, welcome to our town.</text>
+		</line>
+		<line>
+			<id>8</id>
+			<text>What do you want to know?</text>
+		</line>
+		<line>
+			<id>9</id>
+			<text>To the west there is a shop run by  our blacksmith Astero. To the east is an altar, where you should be able to find Arshel our monk. Gates are to the North West and South East. I wouldn't recommend going through the latter.  </text>
+		</line>
+		<line>
+			<id>10</id>
+			<text>Its nothing you should be concerned about. So long as you are not the reason of more incidents we'll be fine. </text>
+		</line>
+		<line>
+			<id>11</id>
+			<text>Look kid, no offense but I don't really have time to sit here and tell you the whole story. Long story short, this town has been built many years ago by my ancestors, it used to be prosperous town but is now in almost a total ruin. I hope it satisfies. </text>
+		</line>
+		<line>
+			<id>12</id>
+			<text>Please knock next time. What can I help you with? </text>
+		</line>
+		<line>
+			<id>13</id>
+			<text>Remember the knocking part? Ah forget it, what do you need?</text>
+		</line>
+		<line>
+			<id>14</id>
+			<text>Why are you so eager to know? You are a human stranger why would you care? </text>
+		</line>
+		<line>
+			<id>15</id>
+			<text>Rather unlikely. Look, I'm very busy trying to get this situation sorted. And you bothering me doesnt make it better. Not to mentioned those damned plants infesting my garden. The audacity of those hellish beings spiting seeds and breaking my pots. Unbelievable.
+			</text>
+		</line>
+		<line>
+			<id>16</id>
+			<text>Undoubtably. Look, I'm very busy trying to get this situation sorted. And you bothering me doesnt make it better. Not to mentioned those damned plants infesting my garden. The audacity of those hellish beings spiting seeds and breaking my pots. Unbelievable.</text>
+		</line>
+		<line>
+			<id>17</id>
+			<text>Sure, be my guest. Now leave me please.</text>
+		</line>
+		<line>
+			<id>18</id>
+			<text>Yes, yes, goodbye</text>
+		</line>
+		<line>
+			<id>19</id>
+			<text>I already told you I'm busy. Go bother somebody else about it.</text>
+		</line>
+		<line>
+			<id>20</id>
+			<text>You, and those damned plants outside.</text>
+		</line>
+		<line>
+			<id>21</id>
+			<text>Wait, really? You got rid of those pesky things? Would you look at that. I didn't think you'd actually go out of your way to do it for me. Thank you. You did me a favor so in return you can use one of my services for free.</text>
+		</line>
+		<line>
+			<id>22</id>
+			<text>What would you like me to do?</text>
+		</line>
+		<line>
+			<id>23</id>
+			<text>Oh, a genuine draconic scale armor. I can work with that. Here .</text>
+		</line>
+		<line>
+			<id>24</id>
+			<text>Very well, stay still.</text>
+		</line>
+		<line>
+			<id>25</id>
+			<text>Well, you did me a favour earler. Ah what the hell. I won't lie the situation is grave. To put it shortly a human came here not too long ago. He stole a powerful artifact from us. The lack of this artifact is the main reason why this town is in such a dire state. People lost the will. If we don't get this artifact back soon if fear what comes next. </text>
+		</line>
+		<line>
+			<id>26</id>
+			<text>Fine. Not like I have a better option. We suspect the knight has holed himself in t he ruins of an old castle. You can see its towers from here. If you can return our artifact to us, well, lets just say you will save this town. But I don't expect anything from you. You aren't from here, so I see no reason why you'd want to help us. </text>
+		</line>
+		<line>
+			<id>27</id>
+			<text>No hard feelings. I have to thank you for even considering it. Go through the South Eastern gate whenever you are ready. Here is the key.</text>
+		</line>
+		<line>
+			<id>28</id>
+			<text>Thats already more than I expected. Good luck. Go through the South Eastern gate whenever you are ready. Here is the key.</text>
+		</line>
+		<line>
+			<id>29</id>
+			<text>Ah, its good you are here. I wanted to talk with you. I've heard some things about you. You've been helping our town and I have to say, you've impressed us. You've been of help to us in our worst times when nobody else did anything. This means a lot to us and we thank you.</text>
+		</line>
+		<line>
+			<id>30</id>
+			<text>There is more. You already know of our situation so I'll keep it short. We need your help. </text>
+		</line>
+		<line>
+			<id>31</id>
+			<text>There is more. You undoubtably noticed the poor state our town is in. Well you've proven trustowrthy so I will tell you what happened. To put it shortly a human came here not too long ago. He stole a powerful artifact from us. The lack of this artifact is the main reason why this town is in such a dire state. People lost the will. If we don't get this artifact back soon if fear what comes next. We need your help</text>
+		</line>
+		<line>
+			<id>32</id>
+			<text>You see you've proven to be honorable and kind. You have the qualities of a hero and so I've made a decision. I can bestow upon you a great honor. I can share part of my spirit to aid you. This will essentially imbude you with our power. However it is risky, if you are not worthy, it will kill both of us. But at this point I have to take this risk. We have no more time. Do you wish me to perform this ritual?</text>
+		</line>
+		<line>
+			<id>33</id>
+			<text>I understand. Such decision must be hard. I'll wait for your decision but please hurry.</text>
+		</line>
+		<line>
+			<id>34</id>
+			<text>Excellent. Stay still.</text>
+		</line>
+		<line>
+			<id>35</id>
+			<text>Yes we did it. You are now our last hope. Go through the South Eastern Gate to get to the Castle. Wait, have I given you the key yet? Here's a copy regardless. Thank you once again for doing this. You stood up where no others dared. Good luck.</text>
+		</line>
+		<line>
+			<id>36</id>
+			<text>Very well. Here goes.</text>
+		</line>
+		<line>
+			<id>37</id>
+			<text>Good to see you again friend. Are you ready to make the decision?</text>
+		</line>
+	</character>
+
+	
+	
+	
+	<character name="plants">
+		<line>
+			<id>1</id>
+			<text>You see a big moving plant creature. They are oddly eager to shoot their seeds at the side of the shamans hut. A clearly aggressive growl comes from the plants as you approach them.</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>(With a few swift cuts you remove the "heads" of the plants).</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>Almost instantly the plants wither and drop dead.</text>
+		</line>
+	</character>
+
+	
+	
+	
+	<character name="knight">
+		<line>
+			<id>1</id>
+			<text>Ah, one of you scaly cowards finally found the courage to... Oh and who are you? Did you get lost little boy?</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>You poor boy. Look at what they did to you. Are you even hearing yourself?! You've been brainswashed. Don't you know these hellish creatures can't be trusted? </text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>What lies did those hellish spawn convince you of? Foolish boy. You can't trust those creatures!</text>
+		</line>
+		<line>
+			<id>4</id>
+			<text>Look at them, they are an abomination. These creatures do not deserve to have access to such power. I will make a far better use of it.</text>
+		</line>
+		<line>
+			<id>5</id>
+			<text>Yes. It's magnificient. So much power in such a small thing. Do you realise what we could do with it? We could save our homeland.</text>
+		</line>
+		<line>
+			<id>6</id>
+			<text>These things are not people. And you seem to have gotten a bit too close to them. But its not too late for you. Reconsider.</text>
+		</line>
+		<line>
+			<id>7</id>
+			<text>I figured you were too weak to handle the truth. Look at yourself wimp. You think you can stand against me?! You are not even worth my time. Get lost before you anger me. There won't be anoher chance.</text>
+		</line>
+		<line>
+			<id>8</id>
+			<text>We must get access to the essence contained within the orb. Unfortunately I wasn't able to find a way. Looks like we'll have to pay our scaly friends a visit. Come with me and I will show you the right way. Otherwise I am giving you the only chance to get out of my way right now.</text>
+		</line>
+		<line>
+			<id>9</id>
+			<text>Wrong answer fool. Prepare yourself.</text>
+		</line>
+		<line>
+			<id>10</id>
+			<text>Silence! You have been tainted by their poison. You can't be trusted anymore and you must not leave this plave alive! </text>
+		</line>
+		<line>
+			<id>11</id>
+			<text>My pleasure.</text>
+		</line>
+		<line>
+			<id>12</id>
+			<text>Aaargh. You idiot. You are dooming our entire race! And for what? This filth out there?</text>
+		</line>
+		<line>
+			<id>13</id>
+			<text>Take it you draconi lover. I hope they'll eat you alive out there! </text>
+		</line>
+		<line>
+			<id>14</id>
+			<text>Burn in hell traitor.</text>
+		</line>
+		<line>
+			<id>15</id>
+			<text>Weakling. </text>
+		</line>
+	</character>
+
+
+
+
+
+	<character name="blacksmith">
+		<line>
+			<id>1</id>
+			<text>Aha! New face in town welcome! The names Astero. I'm the blacksmith, this is my smithy and you are my customer!  </text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>Why thank you! That's nothing though. You should have seen it when this town was buzzing with life. Good times.</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>Boy, the finest swords come from skilled blacksmiths not from biggest forges. It just so happens that usually the best blacksmiths happen to have big forges.</text>
+		</line>
+		<line>
+			<id>4</id>
+			<text>Well anyway. What brings you to my shop? Looking to buy? Or did you just want to chat, I'm not in a hurry considering the state of this town.</text>
+		</line>
+		<line>
+			<id>5</id>
+			<text>A decisive customer at that! Alright, I can offer you some fine weaponry.</text>
+		</line>
+		<line>
+			<id>6</id>
+			<text>Haha, none taken. Well then, what brings you to my shop? Looking to buy? Or did you just want to chat, I'm not in a hurry considering the state of this town.</text>
+		</line>
+		<line>
+			<id>7</id>
+			<text>Ah my favourite customer! Whats it gonna be this time?</text>
+		</line>
+		<line>
+			<id>8</id>
+			<text>Alright, anything else I can help you with?</text>
+		</line>
+		<line>
+			<id>9</id>
+			<text>Hello again friend. Is there anything big Astero can help you with?</text>
+		</line>
+		<line>
+			<id>10</id>
+			<text>Sure. What would you like to know?</text>
+		</line>
+		<line>
+			<id>11</id>
+			<text>The business... Let's just say there hasn't been much of that lately. But its alright! I'm sure in time business will get back to normal!</text>
+		</line>
+		<line>
+			<id>12</id>
+			<text>Has our shaman Kharim not told you? Well, you should ask him.</text>
+		</line>
+		<line>
+			<id>13</id>
+			<text>I was born and raised here. This town is my home and will be no matter what happens. I trust Kharim. I'm sure he will find a way to get us out of this situation and when he does, I'll be there to help him.</text>
+		</line>
+		<line>
+			<id>14</id>
+			<text>I gotta be, can't just break down, these folk need me. But I wont lie, things have been hard lately. </text>
+		</line>
+		<line>
+			<id>15</id>
+			<text>I love this town, seeing it in such a state breaks my  heart. I miss going to the tavern after hard day of work but now it lies abandoned. To add salt to injury I've lost my pouch of shards somewhere. I can't afford loosing so many shards nowadays.</text>
+		</line>
+		<line>
+			<id>16</id>
+			<text>Really? Thats very kind of you but don't bother too much. Someone probably already took it. I'd probably start looking somewhere around the tavern. I don't spend much time anywhere else.   </text>
+		</line>
+		<line>
+			<id>17</id>
+			<text>Thank you but I've already given up. Someone probably already took it. </text>
+		</line>
+		<line>
+			<id>18</id>
+			<text>Music to my ears. Take a good look.</text>
+		</line>
+		<line>
+			<id>19</id>
+			<text>This one is a fine weapon boy. Wield it with pride. It is a traditional blade of our people. </text>
+		</line>
+		<line>
+			<id>20</id>
+			<text>Hah, would you look at that. This was meant to be a buckler but it looks like a full shield on you! </text>
+		</line>
+		<line>
+			<id>21</id>
+			<text>Sorry, but you don't seem to have enough shards. Don't worry I'm sure the merchandise will still here when ou're back. </text>
+		</line>
+		<line>
+			<id>22</id>
+			<text>Yes thats it! And its still full. I have to say, I'm impressed. Not only did you take time to search for my pouch but you actually returned it Please accept this as a reward. Its one of my finest creations. A draconic scale vest! </text>
+		</line>
+		<line>
+			<id>23</id>
+			<text>What? Oh no, no! That would've been disgusting. It was made using a draconic technique of weaving scale-like metal plates. It makes the armor have the apperance and structure of our skin.  </text>
+		</line>
+		<line>
+			<id>24</id>
+			<text>You keep suprising me human. But there is no way I'm letting you go without a reward. I know. Come here, I'm gonna teach you a secret on how to become stronger.  </text>
+		</line>
+		<line>
+			<id>25</id>
+			<text>My pleasure. I'm happy  to part with it. I've grown out of it.</text>
+		</line>
+		<line>
+			<id>26</id>
+			<text>How are you feeling?</text>
+		</line>
+		<line>
+			<id>27</id>
+			<text>Strength comes in many forms not only raw strength. I just showed you how to tap into our spiritual energy. It will keep you resolute and determined.</text>
+		</line>
+	</character>
+
+	<character name = "monk">
+		<line>
+			<id>1</id>
+			<text>Hello stranger. What brings a human to my humble altar?
+			</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>My name is Arshel, I am what you humans would call a monk. I dedicated my life to help my kind rekindle and maintain our piritual connection. </text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>Nothing more but a simple altar. You can rest here in peace, pray to your gods if you like. If you were one of us I could help you with your spiritual trouble. </text>
+		</line>
+		<line>
+			<id>4</id>
+			<text>We do not worship any gods if thats what you mean. We only connect to our inner spirit. And I am here to help with it.</text>
+		</line>
+		<line>
+			<id>5</id>
+			<text>Feel free. If you want to ask me anything I'll be right here</text>
+		</line>
+		<line>
+			<id>6</id>
+			<text>Ofcourse, feel free to ask me anything. </text>
+		</line>
+		<line>
+			<id>7</id>
+			<text>Welcome back friend. Is there anything you need?</text>
+		</line>
+		<line>
+			<id>8</id>
+			<text>Yes? What can I do for you?</text>
+		</line>
+		<line>
+			<id>9</id>
+			<text>I'd be happy to, what would you like to know?</text>
+		</line>
+		<line>
+			<id>10</id>
+			<text>At times protecting our spirit requires more than just words. I pray I never have to use my skills.</text>
+		</line>
+		<line>
+			<id>11</id>
+			<text>Sadly that is so. The few people left in this town wouldn't even fill a few benches and even those few have stopped comming. I could help them but my code prohibits me from enforcing my help on them, they have to come me willingly.</text>
+		</line>
+		<line>
+			<id>12</id>
+			<text>I saw you talking to Kharim, our shaman. Haven't you asked him? He would be the one to tell you.</text>
+		</line>
+		<line>
+			<id>13</id>
+			<text>Thats a very kind offer but... well.. I can't intervene by myself but you are a stranger. A human at that. Hmm, there is actually a matter you could help me with but its rather delicate. </text>
+		</line>
+		<line>
+			<id>14</id>
+			<text>Recently a posession of mine was stolen from me. A ring ifused with fire magic. It has  mostly  a sentimental value to me since I can't really use it myself. </text>
+		</line>
+		<line>
+			<id>15</id>
+			<text>Oh I know where the thief is and who she is. They are hiding in the alley between the ruined house and the tavern. I would really appreciate you returning my ring but what you do is ultimately your decision. </text>
+		</line>
+		<line>
+			<id>16</id>
+			<text>As I said, I have limited ability  to intervene in others affairs. Having the ring stolen is my fault entirely and I have to live with consequences. I don't hold a grudge and would want nothing more but to help them find a righteous way. You however are pretty much unrestricted in this regard.</text>
+		</line>
+		<line>
+			<id>17</id>
+			<text>You will? That's very kind of you human. There is one more thing though. Please, try not to harmor kill her. We all have our times of weakness and I'm sure in time I can rekindle her good spirit and return her on a righteous path. She is young and lost especially after recent events.  </text>
+		</line>
+		<line>
+			<id>18</id>
+			<text>Ofcourse, I leave this decision in your hands</text>
+		</line>
+		<line>
+			<id>19</id>
+			<text>Your kind sprit will not go unrewarded friend. Thank you.</text>
+		</line>
+		<line>
+			<id>20</id>
+			<text>Let me take a look... Aah yes, its a green pearl. I'd be happy to buy it off of you if you'd like. I can give you 100 shards for it. </text>
+		</line>
+		<line>
+			<id>21</id>
+			<text>Here are your shards. </text>
+		</line>
+		<line>
+			<id>22</id>
+			<text>Thats wonderful! Thank you for bringing it back to me thats very honorable of you. And what of the thief is she alright?</text>
+		</line>
+		<line>
+			<id>23</id>
+			<text>My friend, you have impressed me. I can't stress how happy this news makes me. You have a kind and honorable spirit akin to our own. For your good deeds I would like to share with you some of my knowledge. I will share with you my spritual advice and maybe teach you some of my martial skills.   </text>
+		</line>
+		<line>
+			<id>24</id>
+			<text>Sigh. I was hoping it wouldn't have to come to this. These are dark times we are in. Still, you've done me a service and I appreciate it. Please accept this humble reward. I will aid your spirit and help it find patience. Even though you are not one of us we seem to share our spirits qualities.  </text>
+		</line>
+		<line>
+			<id>25</id>
+			<text>You've shown an unusual aptitude absorbing my knowledge. Even though you are a human you certainly have spritual qualities of a draconian. Go with peace now friend, unless there is anything else you need?</text>
+		</line>
+		<line>
+			<id>26</id>
+			<text>Good, then unless there is anything else you need, go with peace </text>
+		</line>
+	</character>
+
+	<character name ="thief">
+		<line>
+			<id>1</id>
+			<text>What the?! How did you find my hiding place?!  Get lost human punk!</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>Pff, yeah well that still leaves the human part. Now get out, don't make me use my  little friend here.</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>Are you kidding me, you again?! Are you deaf. Get, Out, Now.</text>
+		</line>
+		<line>
+			<id>4</id>
+			<text>Do you realise how little that narrows it down, punk? </text>
+		</line>
+		<line>
+			<id>5</id>
+			<text>Oh look, our little hero is back.</text>
+		</line>
+		<line>
+			<id>6</id>
+			<text>Hah, this tacky thing? Barely worth my time. And whats it to ya hmm? </text>
+		</line>
+		<line>
+			<id>7</id>
+			<text>You just won't give up huh? Get lost.</text>
+		</line>
+		<line>
+			<id>8</id>
+			<text>In your dreams, punk. You think I'm scared of a puny human?</text>
+		</line>
+		<line>
+			<id>9</id>
+			<text>Argh, now get off of me! Alright here just take it. </text>
+		</line>
+		<line>
+			<id>10</id>
+			<text>You think I have a choice? This place is a dump and I'm just a scavenger</text>
+		</line>
+		<line>
+			<id>11</id>
+			<text>Me?! Thats rich coming from your human mouth.</text>
+		</line>
+		<line>
+			<id>12</id>
+			<text>Hey genius, if you haven't noticed I stole from her. What makes you think she will want to help me?</text>
+		</line>
+		<line>
+			<id>13</id>
+			<text>Alright! Fine! I'll go, just get off of me finally.</text>
+		</line>
+		<line>
+			<id>14</id>
+			<text>Trade for it? I have a better offer. Leave me be and you can have some of my loot I hid in the well. Think about it, easy money and we go our separate ways. You think that goody two shoes will give you anything worth your trouble for this ring?</text>
+		</line>
+		<line>
+			<id>15</id>
+			<text>Uuu, look at the littlehero, well you aint getting it</text>
+		</line>
+		<line>
+			<id>16</id>
+			<text>What the... (With a quick cheap move you kill the thief)</text>
+		</line>
+		<line>
+			<id>17</id>
+			<text>Leave me. I said I will go see her.</text>
+		</line>
+	</character>
+
+	<character name ="gate">
+		<line>
+			<id>1</id>
+			<text>This gate is tightly closed. Dark towers can be visible in the distance beyond the gate.</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>With a key in your hand the gate can be opened now.</text>
+		</line>
+	</character>
+</npcdialoglines>
+

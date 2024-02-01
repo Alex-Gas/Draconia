@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<playerdialoglines>
+
+	<character name="npc_test">
+		<line>
+			<id>1</id>
+			<text>"Perform a check"</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>I want to do a check</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>Good talking with you. Bye</text>
+		</line>
+		<line>
+			<id>4</id>
+			<text>Bye.</text>
+		</line>
+		<line>
+			<id>5</id>
+			<text>Screw You.</text>
+		</line>
+		<line>
+			<id>6</id>
+			<text>I think I found your item!</text>
+		</line>
+		<line>
+			<id>7</id>
+			<text>Actually I will now kill you</text>
+		</line>
+
+	</character>
+
+	<character name="shaman">
+		<line>
+			<id>1</id>
+			<text>What is that supposed to mean?</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>Are you alright? You seem frustrated.</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>Right, I'm not sure I'll be staying here long. Bye.</text>
+		</line>
+		<line>
+			<id>4</id>
+			<text>Relax, I wont cause any trouble here. Bye.</text>
+		</line>
+		<line>
+			<id>5</id>
+			<text>I think we started off on the wrong foot. What is troubling you? Maybe I could help.</text>
+		</line>
+		<line>
+			<id>6</id>
+			<text>I have a few questions about this town.</text>
+		</line>
+		<line>
+			<id>7</id>
+			<text>I'd like to know more about you.</text>
+		</line>
+		<line>
+			<id>8</id>
+			<text>Good to meet you. I'll be going now.</text>
+		</line>
+		<line>
+			<id>9</id>
+			<text>Actually I wanted to talk about something else.</text>
+		</line>
+		<line>
+			<id>10</id>
+			<text>I need directions.</text>
+		</line>
+		<line>
+			<id>11</id>
+			<text>You mentioned an incident earlier. Can you tell me something about it?</text>
+		</line>
+		<line>
+			<id>12</id>
+			<text>Tell me about the town.</text>
+		</line>
+		<line>
+			<id>13</id>
+			<text>I have other questions.</text>
+		</line>
+		<line>
+			<id>14</id>
+			<text>It's been nice talking with you. I better get going.</text>
+		</line>
+		<line>
+			<id>15</id>
+			<text>Bye.</text>
+		</line>
+		<line>
+			<id>16</id>
+			<text>I'll be going now, Bye.</text>
+		</line>
+		<line>
+			<id>17</id>
+			<text>Can you tell me about the incident?</text>
+		</line>
+		<line>
+			<id>18</id>
+			<text>Maybe there is something I can do to help?</text>
+		</line>
+		<line>
+			<id>19</id>
+			<text>I'm just curious.</text>
+		</line>
+		<line>
+			<id>20</id>
+			<text>I better get going.</text>
+		</line>
+		<line>
+			<id>21</id>
+			<text>How about I take care of those plants for you?</text>
+		</line>
+		<line>
+			<id>22</id>
+			<text>Alright, I'll leave you to it.</text>
+		</line>
+		<line>
+			<id>23</id>
+			<text>Remind me whats bothering you again?</text>
+		</line>
+		<line>
+			<id>24</id>
+			<text>I took care of those plants for you.</text>
+		</line>
+		<line>
+			<id>25</id>
+			<text>I'd like to use your services.</text>
+		</line>
+		<line>
+			<id>26</id>
+			<text>No problem, I'll think about it, I'd like to ask something else. </text>
+		</line>
+		<line>
+			<id>27</id>
+			<text>Nevermind, I have some other questions.</text>
+		</line>
+		<line>
+			<id>28</id>
+			<text>Can you enchant this armor for me?</text>
+		</line>
+		<line>
+			<id>29</id>
+			<text>Perform an empowering ritual on me.</text>
+		</line>
+		<line>
+			<id>30</id>
+			<text>Thank you. I have some more questions.</text>
+		</line>
+		<line>
+			<id>31</id>
+			<text>Thank you. I'll be going now.</text>
+		</line>
+		<line>
+			<id>32</id>
+			<text>Tell me more, maybe I can help you?</text>
+		</line>
+		<line>
+			<id>33</id>
+			<text>I won't promise anything.</text>
+		</line>
+		<line>
+			<id>34</id>
+			<text>You can count on me. I will return your artifact.</text>
+		</line>
+		<line>
+			<id>35</id>
+			<text>I'd like to ask you some questions first</text>
+		</line>
+		<line>
+			<id>36</id>
+			<text>Can you tell me about the incident now?</text>
+		</line>
+		<line>
+			<id>37</id>
+			<text>I'm just happy to help</text>
+		</line>
+		<line>
+			<id>38</id>
+			<text>I'm not sure. I don't think I'm strong enough.</text>
+		</line>
+		<line>
+			<id>39</id>
+			<text>I promise I will retrieve your artifact</text>
+		</line>
+		<line>
+			<id>40</id>
+			<text>I'll have to think about it.</text>
+		</line>
+		<line>
+			<id>41</id>
+			<text>Yes, You can begin the ritual.</text>
+		</line>
+		<line>
+			<id>42</id>
+			<text>Did it work? I feel so strange.</text>
+		</line>
+		<line>
+			<id>43</id>
+			<text>I'm ready, perform the ritual</text>
+		</line>
+		<line>
+			<id>44</id>
+			<text>Goodbye.</text>
+		</line>
+	</character>
+
+
+
+
+
+	<character name="plants">
+		<line>
+			<id>1</id>
+			<text>(Leave the plants alone)</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>(Attack plants)</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>Nasty.</text>
+		</line>
+		<line>
+			<id>4</id>
+			<text>(Spill draconic whisky on the plants)</text>
+		</line>
+		<line>
+			<id>5</id>
+			<text>This sure is some strong stuff</text>
+		</line>
+	</character>
+
+
+
+
+
+	<character name="knight">
+		<line>
+			<id>1</id>
+			<text>I have come here to reclaim what righteously belongs to draconians.</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>I was sent by draconians. I want to settle this once and for all.</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>Enough! lets settle this.</text>
+		</line>
+		<line>
+			<id>4</id>
+			<text>What do you mean?</text>
+		</line>
+		<line>
+			<id>5</id>
+			<text>The essence? You have it?</text>
+		</line>
+		<line>
+			<id>6</id>
+			<text>There are other ways, you cant just ruin peoples lives like this.</text>
+		</line>
+		<line>
+			<id>7</id>
+			<text>But... What can we do?</text>
+		</line>
+		<line>
+			<id>8</id>
+			<text>You are a genocidal maniac. </text>
+		</line>
+		<line>
+			<id>9</id>
+			<text>I...I'm going...</text>
+		</line>
+		<line>
+			<id>10</id>
+			<text>Alright, I'm with you.</text>
+		</line>
+		<line>
+			<id>11</id>
+			<text>Bring it on!</text>
+		</line>
+		<line>
+			<id>12</id>
+			<text>I'm not here to kill you. I just want the orb.</text>
+		</line>
+		<line>
+			<id>13</id>
+			<text>You wont hurt anyone again. I'll make sure of it</text>
+		</line>
+		<line>
+			<id>14</id>
+			<text>Unhand it now!</text>
+		</line>
+		<line>
+			<id>15</id>
+			<text>(Finish him)</text>
+		</line>
+		<line>
+			<id>16</id>
+			<text>(...)</text>
+		</line>
+	</character>
+
+
+	<character name="blacksmith">
+		<line>
+			<id>1</id>
+			<text>Pleasure to meet you Astero! Thats a fine smithy you have here.</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>This? Your smithy looks so small and crude.</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>Lets just get to business</text>
+		</line>
+		<line>
+			<id>4</id>
+			<text>I'm sure it was a sight</text>
+		</line>
+		<line>
+			<id>5</id>
+			<text>Uh huh</text>
+		</line>
+		<line>
+			<id>6</id>
+			<text>I meant no offense</text>
+		</line>
+		<line>
+			<id>7</id>
+			<text>I should get going, bye.</text>
+		</line>
+		<line>
+			<id>8</id>
+			<text>I have some questions</text>
+		</line>
+		<line>
+			<id>9</id>
+			<text>How is the situation here affecting your business.</text>
+		</line>
+		<line>
+			<id>10</id>
+			<text>Whats this incident I keep hearing about?</text>
+		</line>
+		<line>
+			<id>11</id>
+			<text>Tell me about yourself</text>
+		</line>
+		<line>
+			<id>12</id>
+			<text>You seem awfully possitive about all of this</text>
+		</line>
+		<line>
+			<id>13</id>
+			<text>Tell me about it.</text>
+		</line>
+		<line>
+			<id>14</id>
+			<text>I'll be staying here for a while. If I find your pouch I'll be sure to return it. </text>
+		</line>
+		<line>
+			<id>15</id>
+			<text>Good luck searching for your pouch</text>
+		</line>
+		<line>
+			<id>16</id>
+			<text>I should get going, bye.</text>
+		</line>
+		<line>
+			<id>17</id>
+			<text>I'd like to talk about something else</text>
+		</line>
+		<line>
+			<id>18</id>
+			<text>I have some other questions about you</text>
+		</line>
+		<line>
+			<id>19</id>
+			<text>Actually lets get back to business</text>
+		</line>
+		<line>
+			<id>20</id>
+			<text>Show me your weapons</text>
+		</line>
+		<line>
+			<id>21</id>
+			<text>Purchase Staff-Blade (300 shards)</text>
+		</line>
+		<line>
+			<id>22</id>
+			<text>Purchase Shield (200 shards)</text>
+		</line>
+		<line>
+			<id>23</id>
+			<text>Nevermind. There is something else I need.</text>
+		</line>
+		<line>
+			<id>24</id>
+			<text>Thanks, I should get going.</text>
+		</line>
+		<line>
+			<id>25</id>
+			<text>There is something else I need</text>
+		</line>
+		<line>
+			<id>26</id>
+			<text>I think I found your pouch of shards</text>
+		</line>
+		<line>
+			<id>27</id>
+			<text>Hold on, is it made of actual scales? ... Your scales?</text>
+		</line>
+		<line>
+			<id>28</id>
+			<text>Please, keep the vest. I don't need payment.</text>
+		</line>
+		<line>
+			<id>29</id>
+			<text>Thanks. It will sourely prove useful.</text>
+		</line>
+		<line>
+			<id>30</id>
+			<text>Alright why not.</text>
+		</line>
+		<line>
+			<id>31</id>
+			<text>A lot better! It's like Iam suddenly full of energy</text>
+		</line>
+		<line>
+			<id>32</id>
+			<text>Thank you for this honor. I would like to ask you some questions.</text>
+		</line>
+		<line>
+			<id>33</id>
+			<text>Thank you for this honor. I have to get going</text>
+		</line>
+		<line>
+			<id>34</id>
+			<text></text>
+		</line>
+	</character>
+
+	<character name = "monk">
+		<line>
+			<id>1</id>
+			<text>Who are you?</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>What is this place exactly?</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>Altar? Are you worshipping something here?</text>
+		</line>
+		<line>
+			<id>4</id>
+			<text>I'm just looking around</text>
+		</line>
+		<line>
+			<id>5</id>
+			<text>I have to go, bye.</text>
+		</line>
+		<line>
+			<id>6</id>
+			<text>Tell me about yourself</text>
+		</line>
+		<line>
+			<id>7</id>
+			<text>If you are just a monk then whats with the armor? You seem to be armed better than rest.</text>
+		</line>
+		<line>
+			<id>8</id>
+			<text>Actually I have some other questions.</text>
+		</line>
+		<line>
+			<id>9</id>
+			<text>Tell me something else about you</text>
+		</line>
+		<line>
+			<id>10</id>
+			<text>Here, I got your ring back</text>
+		</line>
+		<line>
+			<id>11</id>
+			<text>This place seems to be a bit... empty.</text>
+		</line>
+		<line>
+			<id>12</id>
+			<text>I found this strange object. Do you know what this is?</text>
+		</line>
+		<line>
+			<id>13</id>
+			<text>Why is the town so empty? Whats going on?</text>
+		</line>
+		<line>
+			<id>14</id>
+			<text>Is there something I could do to help?</text>
+		</line>
+		<line>
+			<id>15</id>
+			<text>Right, I have some more questions.</text>
+		</line>
+		<line>
+			<id>16</id>
+			<text>Nevermind then. Can I ask you some questions?</text>
+		</line>
+		<line>
+			<id>17</id>
+			<text>I'm all ears.</text>
+		</line>
+		<line>
+			<id>18</id>
+			<text>I assume you want me to search for this thief and get your ring back?</text>
+		</line>
+		<line>
+			<id>19</id>
+			<text>Why me? Why can't you do it yourself? </text>
+		</line>
+		<line>
+			<id>20</id>
+			<text>I'll get you your ring back</text>
+		</line>
+		<line>
+			<id>21</id>
+			<text>I'll have to think about it. Can I ask you some questions?</text>
+		</line>
+		<line>
+			<id>22</id>
+			<text>I can't promise anything.</text>
+		</line>
+		<line>
+			<id>23</id>
+			<text>I promise I won't harm her</text>
+		</line>
+		<line>
+			<id>24</id>
+			<text>I have to get going. Bye.</text>
+		</line>
+		<line>
+			<id>25</id>
+			<text>Sounds fair, here.</text>
+		</line>
+		<line>
+			<id>26</id>
+			<text>I think I'll hold on to it. I have some questions.</text>
+		</line>
+		<line>
+			<id>27</id>
+			<text>Thanks, I want to ask some questions.</text>
+		</line>
+		<line>
+			<id>28</id>
+			<text>Thanks. I'll be on my way</text>
+		</line>
+		<line>
+			<id>29</id>
+			<text>She's fine I managed to retrieve with minimal violence. I also advised her to seek your help.</text>
+		</line>
+		<line>
+			<id>30</id>
+			<text>She didn't make it, I was attacked, and had no choice but to defend myself.</text>
+		</line>
+		<line>
+			<id>31</id>
+			<text>Thank you for your teachings. I feel so much better</text>
+		</line>
+		<line>
+			<id>32</id>
+			<text>Huh, somehow it does make me feel calmer. </text>
+		</line>
+	</character>
+
+
+
+
+
+	<character name ="thief">
+		<line>
+			<id>1</id>
+			<text>Punk? You are the one siting in a dump.</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>Okay, alright. I'm not looking for trouble</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>You've got something that belongs to someone else. </text>
+		</line>
+		<line>
+			<id>4</id>
+			<text>A ring, you stole it from Arshel</text>
+		</line>
+		<line>
+			<id>5</id>
+			<text>I'm here for the ring</text>
+		</line>
+		<line>
+			<id>6</id>
+			<text>Please, be reasonable, give it back and nobody has to get hurt.</text>
+		</line>
+		<line>
+			<id>7</id>
+			<text>You leave me no choice</text>
+		</line>
+		<line>
+			<id>8</id>
+			<text>Look at yourself. Is it worth it? </text>
+		</line>
+		<line>
+			<id>9</id>
+			<text>People live here and try their harderst to get by, and look at you. You are one of the reasons this town has ended up the way it is.</text>
+		</line>
+		<line>
+			<id>10</id>
+			<text>I dont wish to harm you, You don't have to be afraid. Let yourself get helped. Arshel can help you.  </text>
+		</line>
+		<line>
+			<id>11</id>
+			<text>I promise she will understand. Its either that or you stay a miserable rat hunting for scraps</text>
+		</line>
+		<line>
+			<id>12</id>
+			<text>Good, take care of yourself now.</text>
+		</line>
+		<line>
+			<id>13</id>
+			<text>Look, how about we trade for it?</text>
+		</line>
+		<line>
+			<id>14</id>
+			<text>I don't think so, that ring is hers. And you will give it back</text>
+		</line>
+		<line>
+			<id>15</id>
+			<text>Alright, fine you can go.</text>
+		</line>
+		<line>
+			<id>16</id>
+			<text>You should've thought twice before taking it.</text>
+		</line>
+		<line>
+			<id>17</id>
+			<text>Lets have a look...</text>
+		</line>
+		<line>
+			<id>18</id>
+			<text>Nevermind, forget it.</text>
+		</line>
+		<line>
+			<id>19</id>
+			<text>Dont let me stop you...</text>
+		</line>
+	</character>
+
+
+
+	<character name ="gate">
+		<line>
+			<id>1</id>
+			<text>Turn back</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>Open and cross the gate</text>
+		</line>
+	</character>
+
+
+</playerdialoglines>

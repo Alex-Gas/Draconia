@@ -1,0 +1,89 @@
+<cutscenelines>
+
+	<cutscene name="intro">
+		<line>
+			<id>1</id>
+			<text>Far away, in distant volcanic lands of Draconia, a young lone traveler seeks to find his place in the world. </text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>After a long travel he stumbles upon a small, almost deserted town... </text>
+		</line>
+	</cutscene>
+
+	<cutscene name="dieending">
+		<line>
+			<id>1</id>
+			<text>A miserable death has befallen the brave Hero. The last hope of the dying town is gone. </text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>Unable to access the orbs knowledge the Knight makes a fruitless attempt to forcefully obtain its secrets. The town is wiped out in the process and no memory of it perserveres. </text>
+		</line>
+	</cutscene>
+
+	<cutscene name="leaveending">
+		<line>
+			<id>1</id>
+			<text>Facing the Knight's might the Hero looses his determination and flees. He leaves the town behind unable to change its fate, seeking instead to help others and reclaim his honor. </text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>Without help the town ultimately succumbs to deterioration which leaves it vulnerable to the Knights whim. Lacking strength nor hope, the town gets wiped out in search for the secret.</text>
+		</line>
+	</cutscene>
+
+	<cutscene name="joinending">
+		<line>
+			<id>1</id>
+			<text>Under the Knight's corrupting inflence the Hero decides to seek the power hidden within the orb. They join forces and sweep the Draconian lands in search for the orb's secret.</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>The town stood no chance against their combined strength yielding almost instantly. The lone survivor of the carnage has sworn revenge on the Hero for his betrayal</text>
+		</line>
+	</cutscene>
+
+	<cutscene name="killending">
+		<line>
+			<id>1</id>
+			<text>After a grueling fight the Hero had the Knight at his mercy. However, as the final blow was coming the Knight covered himself with the orb in desperation shattering it instantly.</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>Condensed energy of the orb dispersed violently killing the Knight instantly and knocking the hero back. Badly bruised but alive he makes his way back to the town.</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>Without the essence the town slowly succumbs to natural deterioration eventually becoming deserted. The hero left with the few remaining Draconians helping them in search of a new place to live.</text>
+		</line>
+	</cutscene>
+
+	<cutscene name="victoryending">
+		<line>
+			<id>1</id>
+			<text>The merciful hero held up the orb victoriously. With the Knight gone and defeated the hero left the crumbling walls of the castle behind and returned to the village.</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>With the essence returned the town slowly began rebuilding eventually returning to and even surpassing its former glory. Draconians never forgot that it was a human that saved them that day. </text>
+		</line>
+	</cutscene>
+
+	<cutscene name="perfectending">
+		<line>
+			<id>1</id>
+			<text>The merciful hero held up the orb victoriously. But as he did something strange started happening. The orb melted in his hands covering him completely in a vivid and thick substance</text>
+		</line>
+		<line>
+			<id>2</id>
+			<text>The essence contained within the orb has found a new worthy host. What emerged was an amazing creature.</text>
+		</line>
+		<line>
+			<id>3</id>
+			<text>In his new form the Hero decided to stay in the village and use his new strength to rebuild and protect the small town and its people.</text>
+		</line>
+	</cutscene>
+	
+
+</cutscenelines>
