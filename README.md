@@ -2,7 +2,7 @@
 
 Thank you for visiting my complete demo of a PC video game.
 
-To run the game simply run the .exe located in Draconia_(exe) folder.
+To run the game simply run the Draconia.exe located in Draconia_(exe) folder.
 
 The demo has been made using Unity game engine.
 All custom assets and code are of my authorship.
